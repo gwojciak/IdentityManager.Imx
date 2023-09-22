@@ -92,9 +92,9 @@ export class QerService {
             title: '#LDS#Support',
             items: [
              {
-               id: 'NEWSLETTER_FEATURE',
-               route: 'newsletter',
-               title: '#LDS#Newsletter'
+               id: 'CHANGELOG_FEATURE',
+               route: 'changelog',
+               title: '#LDS#Changelog'
              },
              {
               id: 'INSTRUCTIONS_FEATURE',
